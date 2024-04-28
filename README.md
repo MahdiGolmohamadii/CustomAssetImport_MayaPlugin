@@ -1,1 +1,1 @@
-# Import_Refrence_Open-Maya_Pyside-
+made with Python and PySide2 pipeline ready script for import/open/reference maya scenes 
